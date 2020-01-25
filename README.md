@@ -1,3 +1,3 @@
 # ATUTA
- i wanna code:
- learning to code is awesome.testing github!
+I wanna code
+Learning to code is awesome.Testing github.
